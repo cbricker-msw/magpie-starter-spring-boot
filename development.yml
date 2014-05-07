@@ -1,0 +1,7 @@
+security:
+  user:
+    name: magpie
+    password: magpie
+
+server:
+  port: 3001
